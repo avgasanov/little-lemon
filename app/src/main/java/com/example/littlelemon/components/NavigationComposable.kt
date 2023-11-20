@@ -20,7 +20,7 @@ fun Navigation(navController: NavHostController) {
             Onboarding(navController)
         }
         composable(com.example.littlelemon.Home.route) {
-            Home()
+            Home(navController)
         }
         composable(com.example.littlelemon.Profile.route) {
             Profile(navController)

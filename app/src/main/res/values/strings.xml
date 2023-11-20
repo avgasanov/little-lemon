@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">LittleLemon</string>
+    <string name="app_name">Little Lemon</string>
     <string name="logo_desc">Logo</string>
     <string name="lets_get_you_know">Let\'s get you know</string>
     <string name="personal_information">Personal Information</string>
@@ -9,4 +9,11 @@
     <string name="register">Register</string>
     <string name="please_fill_required_fields">Registration unsuccessful. Please enter all data.</string>
     <string name="logout">Log out</string>
+    <string name="chicago">Chicago</string>
+    <string name="hero_desc">We are a family-owned Mediterranean restaurant, focused on traditional recipes served with a modern twist</string>
+    <string name="hero_image_alt">Hero image</string>
+    <string name="enter_search_query">Enter search phrase</string>
+    <string name="search_icon">Search icon</string>
+    <string name="starters">Starters</string>
+    <string name="order_for_delivery">Order for delivery!</string>
 </resources>
